@@ -1,0 +1,4 @@
+-r requirements-dense.txt
+transformers==4.48.3
+accelerate==1.3.0
+bitsandbytes==0.45.2

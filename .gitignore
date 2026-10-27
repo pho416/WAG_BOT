@@ -1,0 +1,11 @@
+.venv/
+.venv-*/
+.env
+__pycache__/
+*.py[cod]
+data/pdfs/
+data/raw/
+data/processed/
+artifacts/
+runs/
+*.zip
